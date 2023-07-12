@@ -1,7 +1,7 @@
 # MiAi_Kafka
 Demo of using kafka with Machine Learning
 
-Video link: https://youtu.be/1ZidAtKpAz0
+Video link: https://youtu.be/JaBXLUdHEDU
 
 #MìAI <br>
 Fanpage: http://facebook.com/miaiblog<br>
